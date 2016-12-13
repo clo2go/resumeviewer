@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "index.js",
+  "main": "server.js",
   "author": "Carlos Lopez",
   "license": "ISC",
   "repository": {
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/clo2go/resumeviewer/issues"
   },
-  "homepage": "https://github.com/clo2go/resumeviewer#readme"
+  "homepage": "https://clopez-resume.herokuapp.com/"
 }
