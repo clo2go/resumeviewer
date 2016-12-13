@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "description": "Resume veiwer using boostrap and React and fb react-creat-app",
   "main": "server.js",
   "author": "Carlos Lopez",
   "license": "ISC",

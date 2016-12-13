@@ -1,7 +1,3 @@
-// var React = require('react');
-// var ReactDOM = require('react-dom');
-// var ReactDOM = require('./App');
-
 import React, { Component } from 'react';
 import $ from 'jquery';
 import './App.css';
@@ -19,12 +15,12 @@ class App extends Component {
     super(props);
     this.state = {
       resumeData:{}
-    }
+    };
   }
 
   getResumeData(){
     $.ajax({
-      url:'https://localhost:3000/resumeData.json',
+      url:'http://localhost:3000/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data){

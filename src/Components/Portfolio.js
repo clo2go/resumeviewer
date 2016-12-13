@@ -19,7 +19,7 @@ class Portfolio extends Component {
                      </a>
                   </div>
               </div> 
-      });
+        });
       }
     return (
       <section id="portfolio">

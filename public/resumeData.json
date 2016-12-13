@@ -3,10 +3,10 @@
     "name":"Carlos Lopez",
     "occupation":"Aspiring web developer, programmer, designer, and instructor",
     "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
-    "image":"profilepic.jpg",
+    "image":"bioPicEmoji.jpg",
     "bio": "I am a bad hombre! Hire me. I will do great things.  Yuge!!  Ask anyone.  Ask my mom.",
-    "email": "bradtraversy@gmail.com",
-    "phone": "clo2go@gmail.com",
+    "email": "clo2go@gmail.com",
+    "phone": "999-999-9999",
     "address":{
       "street":"21 Jump St.",
       "city":"Austin",
@@ -18,12 +18,12 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com",
+        "url":"https://www.facebook.com/lopezlbj",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/Lopezlbj",
         "className":"fa fa-twitter"
       },
       {
@@ -33,7 +33,7 @@
       },
       {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/carlos-lopez-a0314465",
         "className":"fa fa-linkedin"
       },
       {
@@ -43,13 +43,13 @@
       },
       {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/clo2go",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"stackoverflow",
+        "url":"http://stackoverflow.com/users/6657094/carlos-lopez",
+        "className":"fa fa-stack-overflow"
       }
     ]
   },
@@ -57,24 +57,31 @@
   "resume":{
     "education":[
       {
-        "school":"University of Life",
-        "degree":"Master in Graphic Design",
-        "graduated":"April 2007",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "school":"The UT Coding Bootcamp at UT Austin",
+        "degree":"Full Stack Web Develment Certificate.",
+        "graduated":"February 2016",
+        "description":"In this program I recieved a variety of full-stack developer experience that allowed me to build on the skills that make proficient in frontend and backend technologies. I learned HTML, CSS, JavaScript, jQuery and Node.js, as well as PHP frameworks like Laravel, and database systems such as MySQL and MongoDB."
       },
       {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "school":"Concordia University- Portland",
+        "degree":"Master of Education: Curriculum & Instruction with an E-Learning/ Tech Education Specialization.",
+        "graduated":"December 2015",
+        "description":"summarize distance/blended instruction and dev opportunities."
+      },
+      {
+        "school":"Wayland Baptist University",
+        "degree":"Bachelor of Business Administration: Information Systems Specialization. Spanish Double Major",
+        "graduated":"Aug 2014",
+        "description":"highlights:Represented Wayland Baptist University to lobby for Texas Equalization Grant at the Capitol in Austin, Texas. Student Government: Senior Senator.Freshman orientation team leader. Volunteer big brother for underprivileged students in Plainview community schools. Member of “Team Wayland” community service activity group. 2-year NAIA varsity athlete for WBU Pioneers – Pitcher."
+
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX Designer ",
-        "years":"March 2010 - Present",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "company":"LBJ Early College High School- Austin Independent School District",
+        "title":"Spanish Teacher ",
+        "years":"Sept 2005 - Present",
+        "description":"LBJ HIGH Lights: P-tech, Twilight, etc.."
       },
       {
         "company":"Super Cool Studio",
@@ -113,7 +120,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Coffee Cup",
+        "title":"Psychic Hangman",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Illustrator",
         "tags":"Branding, Web Design",
@@ -122,7 +129,7 @@
         "modal":"#modal-01"
       },
       {
-        "title":"Console",
+        "title":"Crystal RPG",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Web Design",
         "tags":"Branding, Web Development",
@@ -131,7 +138,7 @@
         "modal":"#modal-02"
       },
       {
-        "title":"Judah",
+        "title":"Trivia",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Web Development",
         "tags":"Branding, Web Programming",
@@ -140,7 +147,7 @@
         "modal":"#modal-03"
       },
       {
-        "title":"Into The Light",
+        "title":"Gistastic",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Photography",
         "tags":"Photography, Design",
@@ -149,7 +156,7 @@
         "modal":"#modal-04"
       },
       {
-        "title":"Farmer Boy",
+        "title":"Train Schedule",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Branding",
         "tags":"Branding, Web Design",
@@ -158,7 +165,7 @@
         "modal":"#modal-05"
       },
       {
-        "title":"Girl",
+        "title":"Multi Player RPS",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Photography",
         "tags":"Photography, Graphic Design",
@@ -167,7 +174,7 @@
         "modal":"#modal-06"
       },
       {
-        "title":"Origami",
+        "title":"Liri Bot",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Illustration",
         "tags":"Branding, Illustration",
@@ -176,7 +183,7 @@
         "modal":"#modal-07"
       },
       {
-        "title":"Retrocam",
+        "title":"Friend Finder",
         "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
         "category":"Web Development",
         "tags":"Photography",
