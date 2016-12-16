@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "description": "Resume veiwer using boostrap and React and fb react-creat-app",
-  "main": "server.js",
+  "main": "index.js",
   "author": "Carlos Lopez",
   "license": "ISC",
   "repository": {
