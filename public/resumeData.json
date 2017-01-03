@@ -53,7 +53,7 @@
       }
     ]
   },
-  
+
   "resume":{
     "education":[
       {
@@ -117,6 +117,7 @@
       }
     ]
   },
+
   "portfolio":{
     "projects": [
       {
@@ -193,6 +194,7 @@
       }
     ]
   },
+
   "testimonials":{
     "testimonials":[
       {
@@ -205,4 +207,5 @@
       }
     ]
   }
+  
 }
