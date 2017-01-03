@@ -20,7 +20,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'http://localhost:3000/resumeData.json',
+      url:'http://localhost:9000/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data){
@@ -40,7 +40,6 @@ class App extends Component {
     console.log(this.state.resumeData);
     return (
       <div className="App">
-        // <Header data={this.state.resumeData.main} />
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
