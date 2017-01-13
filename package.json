@@ -7,8 +7,8 @@
   },
   "dependencies": {
     "jquery": "^3.1.1",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "description": "Resume veiwer using boostrap and React and fb react-creat-app",
-  "main": "server.js",
+  "main": "index.js",
   "author": "Carlos Lopez",
   "license": "ISC",
   "repository": {
@@ -27,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/clo2go/resumeviewer/issues"
   },
-  "homepage": "https://clopez-resume.herokuapp.com/"
+  "homepage": "https://clo-resume.herokuapp.com/",
+  "keywords": [
+    "dynamic",
+    "web",
+    "resume",
+    "react.js",
+    "json"
+  ]
 }
