@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Carlos Lopez",
-    "occupation":"Aspiring Web Developer",
+    "occupation":"Aspiring web developer, programmer, designer, and instructor",
     "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
     "image":"bioPicEmoji.jpg",
     "bio": "I am a bad hombre! Hire me. I will do great things.  Yuge!!  Ask anyone.  Ask my mom.",
@@ -53,7 +53,7 @@
       }
     ]
   },
-
+  
   "resume":{
     "education":[
       {
@@ -117,7 +117,6 @@
       }
     ]
   },
-
   "portfolio":{
     "projects": [
       {
@@ -194,7 +193,6 @@
       }
     ]
   },
-
   "testimonials":{
     "testimonials":[
       {
@@ -207,5 +205,4 @@
       }
     ]
   }
-
 }

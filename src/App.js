@@ -9,7 +9,6 @@ import Testimonials from './Components/Testimonials';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 
-var port = process.env.PORT || 3000;
 
 class App extends Component {
   constructor(props){
@@ -21,7 +20,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://localhost:' + port + '/resumeData.json',
+      url:'http://localhost:3000/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data){
@@ -46,7 +45,7 @@ class App extends Component {
         <Resume data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
         <Testimonials data={this.state.resumeData.testimonials} />
-        <Contact data={this.state.resumeData.main} />
+        <Contact data={this.state.resumeData.main}/>
         <Footer />
       </div>
     );
