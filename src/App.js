@@ -9,7 +9,7 @@ import Testimonials from './Components/Testimonials';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 
-var port = process.env.PORT || 3000;
+
 
 class App extends Component {
   constructor(props){
@@ -20,8 +20,8 @@ class App extends Component {
   }
 
   getResumeData(){
-    $.ajax({
-      url:'https://localhost:' + port + '/resumeData.json',
+    var currentURL = window.location.origin;
+    $.ajax({url: currentURL + '/resumeData.json', 
       dataType: 'json',
       cache: false,
       success: function(data){
