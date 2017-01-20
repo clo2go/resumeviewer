@@ -14,7 +14,7 @@
       "zip": "78704"
     },
     "website": "www.clo2goco@gmail.com",
-    "resumedownload":"http://something.com",
+    "resumedownload":"https://docs.google.com/document/d/15B3wYHWd5XvyMZm7zBAHprUeB2yntrRtMUBG1a2k7A0/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -84,36 +84,36 @@
         "description":"LBJ HIGH Lights: P-tech, Twilight, etc.."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"UX Designer",
-        "years":"March 2007 - February 2010",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "company":"OnAirstreaming",
+        "title":"Production Assistant",
+        "years":"March 2010 - Present",
+        "description":"I did bunch of stuff"
       }
     ],
     "skills":[
-      {
-        "name":"Photoshop",
-        "level":"99%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"70%"
-      },
-      {
-        "name":"Wordpress",
-        "level":"30%"
-      },
-      {
-        "name":"CSS",
-        "level":"99%"
-      },
       {
         "name":"HTML5",
         "level":"90%"
       },
       {
-        "name":"jQuery",
-        "level":"93%"
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"65%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"React.js",
+        "level":"60%"
       }
     ]
   },
@@ -122,8 +122,8 @@
     "projects": [
       {
         "title":"Psychic Hangman",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustrator",
+        "description":"########################",
+        "category":"##############",
         "tags":"Branding, Web Design",
         "image":"coffee.jpg",
         "url":"http://port1.com",
@@ -131,7 +131,7 @@
       },
       {
         "title":"Crystal RPG",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"##################",
         "category":"Web Design",
         "tags":"Branding, Web Development",
         "image":"console.jpg",
@@ -140,7 +140,7 @@
       },
       {
         "title":"Trivia",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"##########ADDD STUUUUUFFFFFF",
         "category":"Web Development",
         "tags":"Branding, Web Programming",
         "image":"judah.jpg",
@@ -148,8 +148,8 @@
         "modal":"#modal-03"
       },
       {
-        "title":"Gistastic",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "title":"Giftastic",
+        "description":"ADDDDD MOOOOOORRREEEEE STUFFFFF",
         "category":"Photography",
         "tags":"Photography, Design",
         "image":"into-the-light.jpg",
@@ -158,7 +158,7 @@
       },
       {
         "title":"Train Schedule",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"STUFFFFFFFFF HEEERRRREEEEER TOOOOOOO",
         "category":"Branding",
         "tags":"Branding, Web Design",
         "image":"farmerboy.jpg",
@@ -167,7 +167,7 @@
       },
       {
         "title":"Multi Player RPS",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"xoxoxoxoxoxoxoxoxox",
         "category":"Photography",
         "tags":"Photography, Graphic Design",
         "image":"girl.jpg",
@@ -176,7 +176,7 @@
       },
       {
         "title":"Liri Bot",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"xoxoxoxoxoxoxoxoxox",
         "category":"Illustration",
         "tags":"Branding, Illustration",
         "image":"origami.jpg",
@@ -185,7 +185,7 @@
       },
       {
         "title":"Friend Finder",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "description":"#############################",
         "category":"Web Development",
         "tags":"Photography",
         "image":"retrocam.jpg",
@@ -198,11 +198,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "text":"MAYBE DELETE THIS?????",
         "user":"John Doe"
       },
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "text":"You da best!!!!!!!",
         "user":"Steve Smith"
       }
     ]
