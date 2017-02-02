@@ -101,19 +101,19 @@
       },
       {
         "name":"Javascript",
-        "level":"65%"
+        "level":"90%"
       },
       {
         "name":"Node.js",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"MySQL",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"React.js",
-        "level":"60%"
+        "level":"90%"
       }
     ]
   },
@@ -131,8 +131,7 @@
       },
       {
         "title":"French.Press.Play",
-        "description":"Group Project with 3 other developers: A dynamic web page that was created in a team of three developers to help walk the user through the process of making coffee in a French Press and help them stay focused while providing activities. Built using HTML5, CSS3, and Bootsrap to style and Javascript for logic along with Giphy, YouTube, and Google Maps API. 
-",
+        "description":"Group Project with 3 other developers: A dynamic web page that was created in a team of three developers to help walk the user through the process of making coffee in a French Press and help them stay focused while providing activities. Built using HTML5, CSS3, and Bootsrap to style and Javascript for logic along with Giphy, YouTube, and Google Maps API.",
         "category":"Javascript Web Site",
         "tags":"Web Development, HTML5, CSS3, Javascript, ",
         "image":"french-press-play.png",
