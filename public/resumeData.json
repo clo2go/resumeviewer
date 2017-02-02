@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Carlos Lopez",
-    "occupation":"Aspiring Web Developer",
+    "occupation":"Educator & Web Developer",
     "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
-    "image":"bioPicEmoji.jpg",
+    "image":"clo-hs-comic-pinkBG.jpg",
     "bio": "I am a bad hombre! Hire me. I will do great things.  Yuge!!  Ask anyone.  Ask my mom.",
     "email": "clo2go@gmail.com",
-    "phone": "999-999-9999",
+    "phone": "",
     "address":{
-      "street":"21 Jump St.",
+      "street":"",
       "city":"Austin",
       "state":"TX",
       "zip": "78704"
@@ -121,75 +121,76 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Psychic Hangman",
-        "description":"########################",
-        "category":"##############",
-        "tags":"Branding, Web Design",
-        "image":"coffee.jpg",
-        "url":"http://port1.com",
+        "title":"Cheevr",
+        "description":"An application created in a team of three developers that utilizes Amazon Alexa’s voice recognition and AWS to allow users to create oral review flashcards and quizzes utilizing HTML 5, CSS3, and Google Material design to style the front end and Implemented combinations of Javascript and JQuery, Node, MySQL , AWS Oauth, and Amazon Alexa API to put together backend.",
+        "category":"Fiull Stack Web App",
+        "tags":"Web Design",
+        "image":"cheevr.png",
+        "url":"http://alexaquiz.herokuapp.com/",
         "modal":"#modal-01"
       },
       {
-        "title":"Crystal RPG",
-        "description":"##################",
-        "category":"Web Design",
-        "tags":"Branding, Web Development",
-        "image":"console.jpg",
-        "url":"http://port2.com",
+        "title":"French.Press.Play",
+        "description":"Group Project with 3 other developers: A dynamic web page that was created in a team of three developers to help walk the user through the process of making coffee in a French Press and help them stay focused while providing activities. Built using HTML5, CSS3, and Bootsrap to style and Javascript for logic along with Giphy, YouTube, and Google Maps API. 
+",
+        "category":"Javascript Web Site",
+        "tags":"Web Development, HTML5, CSS3, Javascript, ",
+        "image":"french-press-play.png",
+        "url":"https://french-create-play.herokuapp.com",
         "modal":"#modal-02"
       },
       {
-        "title":"Trivia",
-        "description":"##########ADDD STUUUUUFFFFFF",
+        "title":"GiphyLube",
+        "description":"Using GIPHY API to make a dynamic web page that populates with gifs. To finish this task. GIPHY API calls and HTML made with JavaScript and jQuery",
         "category":"Web Development",
-        "tags":"Branding, Web Programming",
-        "image":"judah.jpg",
-        "url":"http://port3.com",
+        "tags":"Web Programming",
+        "image":"giphy.png",
+        "url":"https://giffy-lube.herokuapp.com/",
         "modal":"#modal-03"
       },
       {
-        "title":"Giftastic",
-        "description":"ADDDDD MOOOOOORRREEEEE STUFFFFF",
-        "category":"Photography",
-        "tags":"Photography, Design",
-        "image":"into-the-light.jpg",
-        "url":"http://port4.com",
+        "title":"Friend Finder",
+        "description":"A full-stack, Compatibility-based \"FriendFinder\" site that will take in users' results from surveys and compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This javascript app runs on Express to handle routing.",
+        "category":"Web Design",
+        "tags":"Web Design",
+        "image":"friend-finder.png",
+        "url":"https://friend-adult-finder.herokuapp.com/",
         "modal":"#modal-04"
       },
       {
-        "title":"Train Schedule",
-        "description":"STUFFFFFFFFF HEEERRRREEEEER TOOOOOOO",
-        "category":"Branding",
-        "tags":"Branding, Web Design",
-        "image":"farmerboy.jpg",
-        "url":"http://port5.com",
+        "title":"Eat Da Burger",
+        "description":"A burger logger with MySQL, Node, Express, Handlebars, and ORM following model-view-controller (MVC) design pattern. Uses Node and MySQL to query and route data while Handlebars generates HTML.",
+        "category":"Web Development",
+        "tags":"Web Design",
+        "image":"eat-da-burger.png",
+        "url":"https://burger-inventory.herokuapp.com/burgers",
         "modal":"#modal-05"
       },
       {
-        "title":"Multi Player RPS",
-        "description":"xoxoxoxoxoxoxoxoxox",
-        "category":"Photography",
-        "tags":"Photography, Graphic Design",
-        "image":"girl.jpg",
-        "url":"http://port6.com",
+        "title":"Psychic Game",
+        "description":"Psychic html game using javscript and Google's Material Design",
+        "category":"Web Development",
+        "tags":"Web Dev",
+        "image":"psychic.png",
+        "url":"https://psychic-material.herokuapp.com/",
         "modal":"#modal-06"
       },
       {
-        "title":"Liri Bot",
-        "description":"xoxoxoxoxoxoxoxoxox",
+        "title":"Pepe Redux: The Frog that once was.",
+        "description":"Pepe was once an innocent cartoon character. This quiz revisits his origins Trivia game built with JavaScript for the logic and jQuery to manipulate HTML.",
         "category":"Illustration",
         "tags":"Branding, Illustration",
-        "image":"origami.jpg",
-        "url":"http://port7.com",
+        "image":"pepe.png",
+        "url":"https://trivia-pepe.herokuapp.com/",
         "modal":"#modal-07"
       },
       {
-        "title":"Friend Finder",
-        "description":"#############################",
+        "title":"Train Station",
+        "description":"A train schedule app that incorporates Firebase to host arrival and departure data. Moment.js retrieves and manipulates time to provide up-to-date information about arrival times and how many minutes remain until various trains arrive at their station",
         "category":"Web Development",
         "tags":"Photography",
-        "image":"retrocam.jpg",
-        "url":"http://port8.com",
+        "image":"train-time.png",
+        "url":"https://dat-train-time.herokuapp.com/",
         "modal":"#modal-08"
       }
     ]
@@ -198,12 +199,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"MAYBE DELETE THIS?????",
-        "user":"John Doe"
+        "text":"This guy puts the third plus in C+++",
+        "user":"Charlie"
       },
       {
-        "text":"You da best!!!!!!!",
-        "user":"Steve Smith"
+        "text":"This guy codes like a reverse mullet.  Party up front and all business in the back! Heyo!",
+        "user":"Chuck"
       }
     ]
   }
