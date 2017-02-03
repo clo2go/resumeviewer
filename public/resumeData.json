@@ -123,7 +123,7 @@
       {
         "title":"Cheevr",
         "description":"An application created in a team of three developers that utilizes Amazon Alexa’s voice recognition and AWS to allow users to create oral review flashcards and quizzes utilizing HTML 5, CSS3, and Google Material design to style the front end and Implemented combinations of Javascript and JQuery, Node, MySQL , AWS Oauth, and Amazon Alexa API to put together backend.",
-        "category":"Fiull Stack Web App",
+        "category":"Full Stack Web App",
         "tags":"Web Design",
         "image":"cheevr.png",
         "url":"http://alexaquiz.herokuapp.com/",
@@ -141,7 +141,7 @@
       {
         "title":"GiphyLube",
         "description":"Using GIPHY API to make a dynamic web page that populates with gifs. To finish this task. GIPHY API calls and HTML made with JavaScript and jQuery",
-        "category":"Web Development",
+        "category":"Javasccript website",
         "tags":"Web Programming",
         "image":"giphy.png",
         "url":"https://giffy-lube.herokuapp.com/",
@@ -149,9 +149,9 @@
       },
       {
         "title":"Friend Finder",
-        "description":"A full-stack, Compatibility-based \"FriendFinder\" site that will take in users' results from surveys and compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This javascript app runs on Express to handle routing.",
-        "category":"Web Design",
-        "tags":"Web Design",
+        "description":"A full-stack web app, Compatibility-based \"FriendFinder\" site that will take in users' results from surveys and compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This javascript app runs on Express to handle routing.",
+        "category":"Web Development",
+        "tags":"Full Stack Web App",
         "image":"friend-finder.png",
         "url":"https://friend-adult-finder.herokuapp.com/",
         "modal":"#modal-04"
@@ -159,7 +159,7 @@
       {
         "title":"Eat Da Burger",
         "description":"A burger logger with MySQL, Node, Express, Handlebars, and ORM following model-view-controller (MVC) design pattern. Uses Node and MySQL to query and route data while Handlebars generates HTML.",
-        "category":"Web Development",
+        "category":"Full stack web app.",
         "tags":"Web Design",
         "image":"eat-da-burger.png",
         "url":"https://burger-inventory.herokuapp.com/burgers",
@@ -168,7 +168,7 @@
       {
         "title":"Psychic Game",
         "description":"Psychic html game using javscript and Google's Material Design",
-        "category":"Web Development",
+        "category":"Javascript website",
         "tags":"Web Dev",
         "image":"psychic.png",
         "url":"https://psychic-material.herokuapp.com/",
@@ -177,8 +177,8 @@
       {
         "title":"Pepe Redux: The Frog that once was.",
         "description":"Pepe was once an innocent cartoon character. This quiz revisits his origins Trivia game built with JavaScript for the logic and jQuery to manipulate HTML.",
-        "category":"Illustration",
-        "tags":"Branding, Illustration",
+        "category":"Javascript website",
+        "tags":"html5, css3, ",
         "image":"pepe.png",
         "url":"https://trivia-pepe.herokuapp.com/",
         "modal":"#modal-07"
@@ -186,8 +186,8 @@
       {
         "title":"Train Station",
         "description":"A train schedule app that incorporates Firebase to host arrival and departure data. Moment.js retrieves and manipulates time to provide up-to-date information about arrival times and how many minutes remain until various trains arrive at their station",
-        "category":"Web Development",
-        "tags":"Photography",
+        "category":"Full Stack Web app",
+        "tags":"html5, css3, momentsJS, Bootsrap",
         "image":"train-time.png",
         "url":"https://dat-train-time.herokuapp.com/",
         "modal":"#modal-08"
