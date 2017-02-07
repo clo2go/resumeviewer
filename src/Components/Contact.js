@@ -3,12 +3,6 @@ import React, { Component } from 'react';
 class Contact extends Component {
   render() {
    if(this.props.data){
-      var name=this.props.data.name;
-      var street=this.props.data.address.street;
-      var city=this.props.data.address.city;
-      var state=this.props.data.address.state;
-      var zip=this.props.data.address.zip;
-      var phone=this.props.data.phone;
       }
     return (
       <section id="contact">
@@ -17,7 +11,7 @@ class Contact extends Component {
                <h1><span>Get In Touch.</span></h1>
                </div>
             <div className="ten columns">
-                  <p className="lead">Contact me for references
+                  <p className="lead">Submit for references or use my LinkedIn
                   </p>
             </div>
          </div>
@@ -57,18 +51,12 @@ class Contact extends Component {
 				   </div>
             </div>
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
-					   <h4>Address and Phone</h4>
-					   <p className="address">
-   					   {name}<br />
-						   {street} <br />
-   					   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
-					   </p>
-				   </div>
+               <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="carlos-lopez-clo2go"><a className="LI-simple-link" href='https://www.linkedin.com/in/carlos-lopez-clo2go?trk=profile-badge'>Carlos Lopez</a></div>
             </aside>
       </div>
+      
    </section> 
+
     );
   }
 }

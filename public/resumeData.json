@@ -4,7 +4,7 @@
     "occupation":"Educator & Web Developer",
     "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
     "image":"clo-hs-comic-pinkBG.jpg",
-    "bio": "I am a bad hombre! Hire me. I will do great things.  Yuge!!  Ask anyone.  Ask my mom.",
+    "bio": "I am an accomplished educator with full stack web developer expertise and a passion for creating and lifelong learning.  I thoroughly enjoy the problem solving process while making and breaking apps across the entire stack spectrum. I tend to gravitate towards front end development but love being kept on my toes with backend data challenges and solutions.  Ultimately, I’m just addicted to the excitement and magic of making fully functional, useful, and engaging apps for the web.  Although my version control experience is with Git, I am comfortable adapting to varied team's’ needs and environments. My background in world languages and language acquisition concepts truly help me understand and respect the process of learning multiple languages and cultures. Combine that with my bootcamp experience at UT Austin, which absolutely required fast paced technical  proficiency growth for success, and I feel well positioned technically and mentally to grow with demands and industry.",
     "email": "clo2go@gmail.com",
     "phone": "",
     "address":{
@@ -18,27 +18,27 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/lopezlbj",
+        "url":"https://www.facebook.com/clo2go",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/Lopezlbj",
+        "url":"https://twitter.com/clo2go",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com",
+        "url":"https://plus.google.com/u/0/105099422234188892292",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/carlos-lopez-a0314465",
+        "url":"https://www.linkedin.com/in/carlos-lopez-clo2go",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com",
+        "url":"https://instagram.com/clo2go/",
         "className":"fa fa-instagram"
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "name":"stackoverflow",
-        "url":"http://stackoverflow.com/users/6657094/carlos-lopez",
+        "url":"https://stackoverflow.com/users/6657094/carlos-lopez",
         "className":"fa fa-stack-overflow"
       }
     ]
@@ -58,21 +58,21 @@
     "education":[
       {
         "school":"The UT Coding Bootcamp at UT Austin",
-        "degree":"Full Stack Web Develment Certificate.",
+        "degree":"Full Stack Web Development Certificate.",
         "graduated":"February 2016",
-        "description":"In this program I recieved a variety of full-stack developer experience that allowed me to build on the skills that make proficient in frontend and backend technologies. I learned HTML, CSS, JavaScript, jQuery and Node.js, as well as PHP frameworks like Laravel, and database systems such as MySQL and MongoDB."
+        "description":"The Coding Bootcamp at UT Austin is an intensive 24-week course in which I learned about and put into practice various web technologies from different parts of the MERN Stack: MongoDB, Express.js, React.js, & Node.js. In those rigorous 24 weeks, JavaScript, JQuery, HTML5/CSS3, Responsive Design, Git, API/JSON, Bootstrap, React.js, Node.js, MongoDB, PHP, Laravel, RESTful API, Firebase, MySQL, Heroku, Security and Session Storage, and User Authentication were also utilized and deployed in a variety of projects and web applications"
       },
       {
         "school":"Concordia University- Portland",
         "degree":"Master of Education: Curriculum & Instruction with an E-Learning/ Tech Education Specialization.",
         "graduated":"December 2015",
-        "description":"summarize distance/blended instruction and dev opportunities."
+        "description":"Studied the effects of instructional technology in all environments (distance, face to face, synchronous, asynchronous), with all populations, while researching data-backed best practices for program and instructional design and implementation."
       },
       {
         "school":"Wayland Baptist University",
         "degree":"Bachelor of Business Administration: Information Systems Specialization. Spanish Double Major",
         "graduated":"Aug 2014",
-        "description":"highlights:Represented Wayland Baptist University to lobby for Texas Equalization Grant at the Capitol in Austin, Texas. Student Government: Senior Senator.Freshman orientation team leader. Volunteer big brother for underprivileged students in Plainview community schools. Member of “Team Wayland” community service activity group. 2-year NAIA varsity athlete for WBU Pioneers – Pitcher."
+        "description":"2-year NAIA varsity athlete for WBU Pioneers – Pitcher. Student Government: Senior Senator. Represented Wayland Baptist University to lobby for Texas Equalization Grant at the Capitol in Austin, Texas. Freshman orientation team leader. Volunteer big brother for underprivileged students in Plainview community schools. Member of “Team Wayland” community service activity group."
 
       }
     ],
@@ -81,39 +81,39 @@
         "company":"LBJ Early College High School- Austin Independent School District",
         "title":"Spanish Teacher ",
         "years":"Sept 2005 - Present",
-        "description":"LBJ HIGH Lights: P-tech, Twilight, etc.."
+        "description":"I facilitate Spanish language acquisition at LBJ Early College High School.  I instruct all levels including AP Spanish Language and Literature.  I am currently our Campus Innovation Coach, Professional Pathways for Teachers (PPfT) liason, and Lead Teacher for after school Twilight tutoring / credit recovery program. I have also been the Varsity Assistant Baseball Coach for 5 years, Sponsor of the Cambio Club, recipient of the Martha Quiat travel stipend, and  awarded Teacher of Promise."
       },
       {
         "company":"OnAirstreaming",
         "title":"Production Assistant",
         "years":"March 2010 - Present",
-        "description":"I did bunch of stuff"
+        "description":"As a member of our small group I wore many and all hats required to make our unique recordings and live events special. Duties included various social media campaigns, coordinating live events, working with labels, artists, brands, and sponsors to ensure logistics, hospitality, security, and promotional needs were always met to consistently recreate a magical experience for all of our guests and viewers online."
       }
     ],
     "skills":[
       {
         "name":"HTML5",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Javascript",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Node.js",
-        "level":"90%"
+        "level":"100%"
       },
       {
-        "name":"MySQL",
-        "level":"90%"
+        "name":"Firebase",
+        "level":"100%"
       },
       {
         "name":"React.js",
-        "level":"90%"
+        "level":"100%"
       }
     ]
   },
