@@ -93,27 +93,63 @@
     "skills":[
       {
         "name":"HTML5",
-        "level":"100%"
+        "url":"https://www.facebook.com/clo2go",
+        "className":" fa fa-border fa-html5 fa-5x"
       },
       {
-        "name":"CSS",
-        "level":"100%"
+        "name":"CSS3",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-css3 fa-5x"
       },
       {
-        "name":"Javascript",
-        "level":"100%"
+        "name":"Vanilla JS",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-code fa-5x"
       },
       {
         "name":"Node.js",
-        "level":"100%"
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-exchange fa-5x"
       },
       {
         "name":"Firebase",
-        "level":"100%"
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-database fa-5x"
+      },
+      {
+        "name":"Express",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-cogs fa-5x"
+      },
+      {
+        "name":"MongoDB",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-database fa-5x"
+      },
+      {
+        "name":"Git",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-github fa-5x"
+      },
+      {
+        "name":"JQuery",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-cogs fa-5x"
+      },
+      {
+        "name":"MySql",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-table fa-5x"
+      },
+      {
+        "name":"Responsive Design",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-mobile fa-5x"
       },
       {
         "name":"React.js",
-        "level":"100%"
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-connectdevelop fa-5x"
       }
     ]
   },

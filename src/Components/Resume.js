@@ -29,8 +29,8 @@ class Resume extends Component {
       });
 
       var skills = this.props.data.skills.map(function(skill){
-        var className = 'bar-expand '+skill.name.toLowerCase();
-        return <li key={skill.name}><span style={{width:skill.level}} className={className}></span><em>{skill.name}</em></li>
+        return <div key={skill.name}><i className={skill.className}></i><em>{skill.name}</em></div>
+        
       });
     }
     return (
@@ -61,9 +61,11 @@ class Resume extends Component {
             <h1><span>Skills</span></h1>
          </div>
          <div className="nine columns main-col">
-            <p>Certified Full Stack Web Developer. Skills include: Strong: HTML5, CSS3, JavaScript, jQuery, Node.js, Responsive Design, Heroku, Git, User Authentication, Express.js, ,Handlebars, and AJAX. Experienced: PHP, Laravel, React.js, MySQL, MongoDB, Angular.js, MongoDB
-            </p>
+            <p>Certified Full Stack Web Developer. </p>
+            <p>Experience includes: HTML5, CSS3, JavaScript, jQuery, Node.js, Responsive Design, Heroku, Git, User Authentication, Express.js, ,Handlebars, AJAX, PHP, Laravel, React.js, MySQL, MongoDB, and Angular.js.</p>
+            
             <div className="bars">
+               <hr />
                <ul className="skills">
                  {skills}
                </ul>
