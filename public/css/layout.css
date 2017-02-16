@@ -277,8 +277,23 @@ ul#nav li.current a { color: #ff33cc; }
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skills Badges
 /*----------------------------------------------*/
+
+.badge {
+  display: inline-block;
+  justify-content: center;
+   margin: 0 15px;
+   padding: 0;
+}
+
+.badge-item {
+  justify-content: center;
+}
+
+.badge-item li { color: #ccc; }
+.badge-item li :hover { color: #ff33cc; }
+
 /*
 .bars {
 	width: 95%;
@@ -297,7 +312,7 @@ ul#nav li.current a { color: #ff33cc; }
   	height: 42px;
   	border-radius: 3px;
 }*/
-.bars li em {
+.skill li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
