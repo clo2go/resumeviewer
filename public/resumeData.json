@@ -71,7 +71,7 @@
       {
         "school":"Wayland Baptist University",
         "degree":"Bachelor of Business Administration: Information Systems Specialization. Spanish Double Major",
-        "graduated":"Aug 2014",
+        "graduated":"Aug 2004",
         "description":"2-year NAIA varsity athlete for WBU Pioneers – Pitcher. Student Government: Senior Senator. Represented Wayland Baptist University to lobby for Texas Equalization Grant at the Capitol in Austin, Texas. Freshman orientation team leader. Volunteer big brother for underprivileged students in Plainview community schools. Member of “Team Wayland” community service activity group."
 
       }
@@ -134,7 +134,7 @@
       {
         "name":"JQuery",
         "url":"https://www.facebook.com/clo2go",
-        "className":"fa fa-border fa-cogs fa-5x"
+        "className":"fa fa-border fa-code fa-5x"
       },
       {
         "name":"MySql",
@@ -142,14 +142,14 @@
         "className":"fa fa-border fa-table fa-5x"
       },
       {
-        "name":"Responsive Design",
-        "url":"https://www.facebook.com/clo2go",
-        "className":"fa fa-border fa-mobile fa-5x"
-      },
-      {
         "name":"React.js",
         "url":"https://www.facebook.com/clo2go",
-        "className":"fa fa-border fa-connectdevelop fa-5x"
+        "className":"fa fa-border fa-cubes fa-5x"
+      },
+      {
+        "name":"Responsive Design",
+        "url":"https://www.facebook.com/clo2go",
+        "className":"fa fa-border fa-compress fa-5x"
       }
     ]
   },
