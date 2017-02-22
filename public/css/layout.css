@@ -738,26 +738,34 @@ call-to-action .button {
 
 /* LinkedIn Container */
 #contact .linkedIn {
+  background: #0D0D0D;
   display: inline;
   text-align: center;
-  position: relative;
-  margin-bottom: 20px;
+
 }
 /* LinkedIn Badge */
 #contact .LI-name-container {
-  height: auto;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-}
-#contact .LI-profile-pic-container { 
-  position: relative;
+  background-color: #0D0D0D;
   display: inline;
   text-align: center;
-  position: relative;
+  background-image: url();
+  height: 100%;
+  
+}
+#contact .LI-profile-pic-container { 
+  background-color: #0D0D0D;
+  background-image: url();
+  height:100%;
+  width: 100%;
+
+  
 }
 #contact .LI-profile-pic {
-  height: auto;
-  width: auto;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  height:35%;
+  width: 35%;
 }
 
 /* Twitter Feed */

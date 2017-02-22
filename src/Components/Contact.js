@@ -15,7 +15,7 @@ class Contact extends Component {
                <div className="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="carlos-lopez-clo2go"><a className="LI-simple-link" href='https://www.linkedin.com/in/carlos-lopez-clo2go?trk=profile-badge'>Carlos Lopez</a></div>
             </div> 
          </div>
-      </section> 
+     </section> 
 
     );
   }
