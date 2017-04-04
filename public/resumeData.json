@@ -4,7 +4,7 @@
     "occupation":"Educator & Web Developer",
     "description":"I design and program websites and web applications of all types. I also hope to share my web dev experiences while helping others on their coding journey",
     "image":"clo-hs-comic-pinkBG.jpg",
-    "bio": "I am an accomplished educator with full stack web developer expertise and a passion for creating and lifelong learning.  I thoroughly enjoy the problem solving process while making and breaking apps across the entire stack spectrum. I tend to gravitate towards front end development but love being kept on my toes with backend data challenges and solutions.  Ultimately, I’m just addicted to the excitement and magic of making fully functional, useful, and engaging apps for the web.  Although my version control experience is with Git, I am comfortable adapting to varied team's’ needs and environments. My background in world languages and language acquisition concepts truly help me understand and respect the process of learning multiple languages and cultures. Combine that with my bootcamp experience at UT Austin, which absolutely required fast paced technical  proficiency growth for success, and I feel well positioned technically and mentally to grow with demands and industry.",
+    "bio": "I am an accomplished educator with a full stack web developer expertise and a passion for creating and lifelong learning. I thoroughly enjoy the problem solving process while tinkering with and making and breaking apps across the entire stack spectrum. I tend to gravitate towards front end development but love being kept on my toes with backend data challenges and solutions. Ultimately, I’m just addicted to the excitement and magic of making functional, useful, and engaging apps for the web. My strengths lie where my education background and web development experiences intersect. My familiarity with teaching and learning new languages and cultures makes me comfortable adapting to varied teams’ needs and environments. Combine that with my bootcamp experience at UT Austin, which absolutely required fast paced technical proficiency growth for success, and I feel well positioned, technically and mentally, to grow with any demands and industry.",
     "email": "clo2go@gmail.com",
     "phone": "",
     "address":{
@@ -88,6 +88,18 @@
         "title":"Production Assistant",
         "years":"March 2010 - Present",
         "description":"As a member of our small group I wore many and all hats required to make our unique recordings and live events special. Duties included various social media campaigns, coordinating live events, working with labels, artists, brands, and sponsors to ensure logistics, hospitality, security, and promotional needs were always met to consistently recreate a magical experience for all of our guests and viewers online."
+      },
+      {
+        "company":"Bullfrog Productions, LLC.",
+        "title":"Production Specialist",
+        "years":"March 2014 - Present",
+        "description":"As a member of this live event start up I collaborated with a team to ensure any and all pre and post production duties are covered and completed to ensure a world class final product an event."
+      },
+      {
+        "company":"SXSW Film Festival",
+        "title":"Theatre Assistant Manager",
+        "years":"March 2009 - 2011",
+        "description":"As a SXSW assistant theatre manager my duties were to monitor and train volunteers and motivate them to do a great job while working, for free, during the cluster that SXSW can be with a smile and love it. I also had to manage the herd of film reels, film directors & cast, and SXSW attendees in and out of film venues, on a schedule, multiple times throughout the day regardless of how important they were or who they thought they knew."
       }
     ],
     "skills":[
