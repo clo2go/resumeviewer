@@ -7,7 +7,7 @@
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.1",
     "eslint-plugin-standard": "^2.0.1",
-    "react-scripts": "0.8.5"
+    "react-scripts": "^1.1.4"
   },
   "dependencies": {
     "jquery": "^3.1.1",
@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/clo2go/resumeviewer/issues"
   },
-  "homepage": "https://clo-resume.herokuapp.com/",
+  "homepage": "https://clo2go-portfolio.herokuapp.com/",
   "keywords": [
     "dynamic",
     "web",

@@ -14,7 +14,7 @@
       "zip": "78704"
     },
     "website": "www.clo2goco@gmail.com",
-    "resumedownload":"https://drive.google.com/file/d/0B7JDUO3yBcWpYjBYT2VnbXpzd3c/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/open?id=1sHWCMpPodpR-xXzpQqyHd33LXvrTSRcL",
     "social":[
       {
         "name":"facebook",
@@ -82,6 +82,12 @@
         "title":"Spanish Teacher ",
         "years":"Sept 2005 - Present",
         "description":"I facilitate Spanish language acquisition at LBJ Early College High School.  I instruct all levels including AP Spanish Language and Literature.  I am currently our Campus Innovation Coach, Professional Pathways for Teachers (PPfT) Teacher Liason, and Lead Teacher for after school Twilight tutoring / credit recovery program. I have also been the Varsity Assistant Baseball Coach for 5 years, Sponsor of the Cambio Club, recipient of the Martha Quiat travel stipend, and awarded Teacher of Promise."
+      },
+      {
+        "company":"Changing Expectations ",
+        "title":"Coding Makerspace Instructor",
+        "years":"Aug 2017 - Present",
+        "description":"United with My Brother's Keeper initiative to facilitate student makerspace project building, while utilizing the engineering design process, and encouraging student design agency through the use of Python, Raspberry Pi, Arduino, Cyber Security Principals, Tinker, Github for classrooms, replit.io, Windows Virtual Machine, Ubuntu, and intro to Air Force CyberPatriot competition."
       },
       {
         "company":"OnAirstreaming",
@@ -159,8 +165,15 @@
         "className":"fa fa-border fa-cubes fa-5x"
       },
       {
+        "name":"Python",
+        "className":"fa fa-border fa-python fa-5x"
+      },
+      {
+        "name":"Java",
+        "className":"fa fa-border fa-java fa-5x"
+      },
+      {
         "name":"Responsive Design",
-        "url":"https://www.facebook.com/clo2go",
         "className":"fa fa-border fa-compress fa-5x"
       }
     ]
